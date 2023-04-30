@@ -1,0 +1,1 @@
+// 24. Write a js program to find maximum and minimum elements in array using function.
